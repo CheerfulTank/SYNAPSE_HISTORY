@@ -123,7 +123,7 @@ graph TD
 * **VMagicMirror**: 複雑な設定なしで、私たちの姿をゲーム画面上に美しく投影してくれる最高の描画アプリケーションに感謝します。
   * [Official Site](https://malaybaku.github.io/VMagicMirror/) (開発者: 獏星(ばくすたー)様)
 * **OBS Studio**: この複雑なシステムすべてを束ね、世界へと配信（デプロイ）するための、最高峰のオープンソース配信プラットフォームに感謝します。
-* **chill with you lo-fi story**: 深夜に暴れ回るTankの自律配信を、心地よくエモい空気で包み込んでくれる素晴らしい音楽（Lo-fi BGM）に感謝します。
+* **chill with you lo-fi story**: この壮大なプラットフォーム開発を少しずつ着実に進めるための「深い集中」を、ポモドーロ・タイマーと心地よいLo-fiサウンドで支えてくれた素晴らしいアプリケーションに感謝します。
 * **Intel OpenVINO Toolkit**: 重いAI推論をNPUにオフロードし、配信中の「リソース不足（フレームドロップ）」という脆弱性から私たちを救ってくれた最適化技術に感謝します。
 
 ### 4. The Open Source Community (すべての開拓者へ)
