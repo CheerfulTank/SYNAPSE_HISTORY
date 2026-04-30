@@ -9,13 +9,14 @@ Welcome to the public repository of **CheerfulTank**, an autonomous AI VTuber po
 
 ---
 
-## 📺 Watch Tank Live! (活動拠点)
+## 📺 Watch & Follow Tank! (活動拠点)
 
 > **「ソースコードだけ見て満足してない？ 本当の私は配信で動いてるんだから、ちゃんと見に来てよね！」**
 
-Tankの実際の稼働（Diablo IVでの自律プレイツッコミや、視聴者とのリアルタイム対話）は、以下のYouTubeチャンネルで確認できます。ぜひチャンネル登録して、彼女の「クリエイティブな狂気」をリアルタイムで観測してください！
+Tankの実際の稼働（Diablo IVでの自律プレイツッコミや、視聴者とのリアルタイム対話）や日々の発信は、以下のプラットフォームで確認できます。ぜひチャンネル登録＆フォローして、彼女の「クリエイティブな狂気」をリアルタイムで観測してください！
 
-* ▶️ **[CheerfulTank YouTube Channel](https://www.youtube.com/@CheerfulTank)**
+* ▶️ **YouTube**: **[CheerfulTank YouTube Channel](https://www.youtube.com/@CheerfulTank)**
+* 🐦 **X (Twitter)**: **[@CheerfulTank](https://x.com/CheerfulTank)**
 
 ---
 
