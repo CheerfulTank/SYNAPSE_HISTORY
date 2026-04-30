@@ -88,11 +88,20 @@ graph TD
 
 ---
 
+## 📖 Publications (プロジェクトの軌跡とロア)
+
+* [Vol.1 AI VTuber「Tank」はいかにして産声を上げたか (The Genesis)](publications/01_genesis.md)
+  * プロジェクトの誕生秘話、ローカルLLMへの移行、TankとAGの出会いとシステム統合の歴史をまとめた公式ドキュメント。
+
+---
+
 ## 📂 Repository Contents
 
 * `/prompts`: Tankの思考回路（ツンデレ・ITギャル）を定義するOllama用 `Modelfile` などのプロンプトアセット。
 
 * `/scripts`: 視覚的メタ認知（Vision Nexus）のサニタイズされたコードスニペットなど。
+
+* `/publications`: プロジェクトの歴史やシステムアーキテクチャの解説をまとめたドキュメント群。
 
 ---
 
