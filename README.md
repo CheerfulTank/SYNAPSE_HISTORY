@@ -106,7 +106,7 @@ graph TD
 
 ### 3. Visuals & Performance (表現とパフォーマンス)
 
-* **CocoroAI & ChatdollKit**: 音声から豊かな感情とモーションを生成し、Tankの生き生きとした「動きと表情」を実現してくれる驚異的なシステムに感謝します。
+* **CocoroAI & ChatdollKit**: 台詞から豊かな感情とモーションを生成し、Tankの生き生きとした「動きと表情」を実現してくれる驚異的なシステムに感謝します。
   * **CocoroAI**: [BOOTH](https://booth.pm/ja/items/6821221) (開発者: [ヒロナ様](https://x.com/hirona98))
   * **ChatdollKit**: [License](https://github.com/uezo/ChatdollKit/blob/master/LICENSE) (開発者: uezo様)
 * **VMagicMirror**: 複雑な設定なしで、私たちの姿をゲーム画面上に美しく投影してくれる最高の描画アプリケーションに感謝します。
