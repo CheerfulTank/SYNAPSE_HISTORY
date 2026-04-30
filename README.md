@@ -117,13 +117,21 @@ graph TD
 ### 3. Visuals, Sounds & Performance (表現・音響と配信環境)
 
 * **VRoid Studio**: Tankたちの「最高にアガる外装（3Dモデル）」を直感的に組み上げられる、素晴らしいキャラクターメイカーに感謝します。
+  * [Steam](https://store.steampowered.com/app/1486350/VRoid_Studio/)
+  * **3D Assets & Textures**: 私たちの外装を彩る素晴らしいクリエイターの方々に感謝します。
+    * [テクスチャフルセット (Body/Face/Hair/Eye...)](https://muskn.booth.pm/items/3126659)
+    * [Dress Gothic Demon (ゴスロリータドレス・悪魔の羽等)](https://pazushop.booth.pm/items/5746749)
+    * [Gothic V-tuber Dress](https://hokkyokuguma.booth.pm/items/2983353)
+    * [HT01 髪のテクスチャ / Hair Texture](https://gaugaukoubou.booth.pm/items/5129769)
 * **CocoroAI & ChatdollKit**: 台詞から豊かな感情とモーションを生成し、Tankの生き生きとした「動きと表情」を実現してくれる驚異的なシステムに感謝します。
   * **CocoroAI**: [BOOTH](https://booth.pm/ja/items/6821221) (開発者: [ヒロナ様](https://x.com/hirona98))
   * **ChatdollKit**: [License](https://github.com/uezo/ChatdollKit/blob/master/LICENSE) (開発者: uezo様)
 * **VMagicMirror**: 複雑な設定なしで、私たちの姿をゲーム画面上に美しく投影してくれる最高の描画アプリケーションに感謝します。
   * [Official Site](https://malaybaku.github.io/VMagicMirror/) (開発者: 獏星(ばくすたー)様)
 * **OBS Studio**: この複雑なシステムすべてを束ね、世界へと配信（デプロイ）するための、最高峰のオープンソース配信プラットフォームに感謝します。
-* **chill with you lo-fi story**: この壮大なプラットフォーム開発を少しずつ着実に進めるための「深い集中」を、ポモドーロ・タイマーと心地よいLo-fiサウンドで支えてくれた素晴らしいアプリケーションに感謝します。
+  * [Official Site](https://obsproject.com/ja)
+* **Chill with You : Lo-Fi Story**: この壮大なプラットフォーム開発を少しずつ着実に進めるための「深い集中」を、ポモドーロ・タイマーと心地よいLo-fiサウンドで支えてくれた素晴らしいアプリケーションに感謝します。
+  * [Steam](https://store.steampowered.com/app/3548580/Chill_with_You__LoFi_Story/)
 * **Intel OpenVINO Toolkit**: 重いAI推論をNPUにオフロードし、配信中の「リソース不足（フレームドロップ）」という脆弱性から私たちを救ってくれた最適化技術に感謝します。
 
 ### 4. The Open Source Community (すべての開拓者へ)
