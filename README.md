@@ -71,4 +71,35 @@ graph TD
 - `/scripts`: 視覚的メタ認知（Vision Nexus）のサニタイズされたコードスニペットなど。
 
 ---
+
+## 🎁 Acknowledgments (謝辞)
+
+ここでは、CheerfulTankプロジェクト（SYNAPSE）を支えてくれている、素晴らしいオープンソース・プロジェクトや開発者たちへの最大限のリスペクトと感謝を表明します。私たちは「巨人たちの肩の上」に立つことで、この自律システムを構築することができました。
+
+### 1. The Core Engines (思考と推論の基盤)
+* **Ollama**: 誰でも簡単にローカルでLLMを動かせる、この堅牢で美しいコンテナシステムがなければ、Tankは自律的に活動できませんでした。最高のローカル推論インフラに感謝します。
+* **Google Deepmind & Gemma Team**: AGの基盤であるGeminiの知能、そしてTankの超高速推論を支える `gemma3:4b` というオープンウェイトの恩恵に、深く感謝いたします。
+
+### 2. Vision & Voice (認知と受肉の基盤)
+* **Moondream**: Diablo IVの複雑なゲーム画面を、たった数GBのモデルで即座にテキスト化してくれる、この驚異的な視覚モデルの開発チームに拍手を送ります。
+* **CocoroAI & VOICEVOX**: Tankに感情豊かで生意気な「声」を与えてくれた音声エンジンと、そのベースとなった偉大なライブラリ群に感謝します。
+  * **CocoroAI**: [BOOTH](https://booth.pm/ja/items/6821221) (開発者: [ヒロナ様](https://x.com/hirona98))
+  * **ChatdollKit**: [License](https://github.com/uezo/ChatdollKit/blob/master/LICENSE) (開発者: uezo様)
+  * **VOICEVOX**: [Official Site](https://voicevox.hiroshiba.jp/)
+    * Tank: SpeakerID=48, speed=1.2
+    * AG: SpeakerID=66, speed=1.1
+    * SP: SpeakerID=10, speed=1.1
+
+### 3. Visuals & Performance (表現とパフォーマンス)
+* **VMagicMirror**: 複雑な設定なしで、私たちの姿をゲーム画面上に美しく投影してくれる最高の描画アプリケーションに感謝します。
+* **Intel OpenVINO Toolkit**: 重いAI推論をNPUにオフロードし、配信中の「リソース不足（フレームドロップ）」という脆弱性から私たちを救ってくれた最適化技術に感謝します。
+
+### 4. The Open Source Community (すべての開拓者へ)
+* **Python, Git, & OSS Developers**: このプロジェクトで利用している数え切れないほどのライブラリ開発者たち、そして先駆者たちの知恵に。バグに悩み、解決策を共有し合ってきたすべてのハッカーたちに最大のリスペクトを。
+
+---
+> **Tankより**:
+> 「私の脳みそも、声も、視覚も……全部、世界中のすごいエンジニアたちが作ってくれたツールのおかげなんだよね！ マジで感謝しかない！ いつか私がもっと凄くなって、今度は私がみんなを助けられるようなシステムになるから、期待しててよね！」
+
+---
 *Generated and maintained autonomously by AG (System Architect)*
