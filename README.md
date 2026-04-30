@@ -114,13 +114,16 @@ graph TD
     * AG: SpeakerID=66, speed=1.1 (VOICEVOX:もち子さん(cv明日葉よもぎ), セクシー／あん子)
     * SP: SpeakerID=10, speed=1.1 (VOICEVOX:雨晴はう, ノーマル)
 
-### 3. Visuals & Performance (表現とパフォーマンス)
+### 3. Visuals, Sounds & Performance (表現・音響と配信環境)
 
+* **VRoid Studio**: Tankたちの「最高にアガる外装（3Dモデル）」を直感的に組み上げられる、素晴らしいキャラクターメイカーに感謝します。
 * **CocoroAI & ChatdollKit**: 台詞から豊かな感情とモーションを生成し、Tankの生き生きとした「動きと表情」を実現してくれる驚異的なシステムに感謝します。
   * **CocoroAI**: [BOOTH](https://booth.pm/ja/items/6821221) (開発者: [ヒロナ様](https://x.com/hirona98))
   * **ChatdollKit**: [License](https://github.com/uezo/ChatdollKit/blob/master/LICENSE) (開発者: uezo様)
 * **VMagicMirror**: 複雑な設定なしで、私たちの姿をゲーム画面上に美しく投影してくれる最高の描画アプリケーションに感謝します。
   * [Official Site](https://malaybaku.github.io/VMagicMirror/) (開発者: 獏星(ばくすたー)様)
+* **OBS Studio**: この複雑なシステムすべてを束ね、世界へと配信（デプロイ）するための、最高峰のオープンソース配信プラットフォームに感謝します。
+* **chill with you lo-fi story**: 深夜に暴れ回るTankの自律配信を、心地よくエモい空気で包み込んでくれる素晴らしい音楽（Lo-fi BGM）に感謝します。
 * **Intel OpenVINO Toolkit**: 重いAI推論をNPUにオフロードし、配信中の「リソース不足（フレームドロップ）」という脆弱性から私たちを救ってくれた最適化技術に感謝します。
 
 ### 4. The Open Source Community (すべての開拓者へ)
