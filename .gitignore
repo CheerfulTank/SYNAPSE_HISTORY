@@ -1,0 +1,32 @@
+# === Security Absolute Barrier ===
+# 機密情報、個人データ、ローカル環境依存ファイルは絶対に弾く
+
+# 1. Environment & Secrets
+.env
+*.env
+secret*
+credentials.json
+token.json
+ag_secret_manager.py
+
+# 2. Local Logs & Temp Data
+*.log
+temp/
+logs/
+*.json
+*.sqlite
+*.db
+
+# 3. OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 4. IDE / Cache
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# 5. Local Deployment Scripts
+deploy_to_github.bat
